@@ -1,0 +1,6 @@
+telebot
+phonenumbers
+geocoder
+carrier
+timezone
+opencage.geocoder
